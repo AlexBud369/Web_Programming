@@ -32,6 +32,9 @@ static void TextOutput(string text)
 - **Personal CV Website** - This CV itself is my first project. [View on GitHub](https://github.com/AlexBud369)
 - **University project** - A practice of writing program code term-paper on C#. [View on GitHub](https://github.com/AlexBud369/PIR231_TermPaper_PNPK.git)
 ## __Courses and Training__
+-- **Basics of the Python programming language** - Mellarosa course
+-- **Python Advanced level** - Mellarosa course
+-- **CS50: Harward course** - Mellarosa course
 ## __English Proficiency__
 
 
