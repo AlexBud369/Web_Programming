@@ -15,7 +15,7 @@ Profile photo
 - **Telegram:** [t.me/Axel13](t.me/Axel13)  
 - **GitHub:** https://github.com/AlexBud369  
 ## __About Me__
-I am currently studying software engineering at the BRU . My priorities in learning are *machine learning* and video game development. My goal is to contribute to innovative projects that solve real-world problems. I prioritize continuous learning and self-improvement. My strengths include problem-solving, teamwork, and adaptability.
+I am currently studying software engineering at the BRU. My priorities in learning are *machine learning* and video game development. My goal is to contribute to innovative projects that solve real-world problems. I prioritize continuous learning and self-improvement. My strengths include problem-solving, teamwork, and adaptability.
 ## __Skills__
 - **Programming Languages:** Python, C#, Java
 - **Frameworks:** React, Django, WinForms
@@ -29,6 +29,8 @@ static void TextOutput(string text)
 }
 ```
 ## __Projects__
+- **Personal CV Website** - This CV itself is my first project. [View on GitHub](https://github.com/AlexBud369)
+- **University project** - A practice of writing program code term-paper on C#. [View on GitHub](https://github.com/AlexBud369/PIR231_TermPaper_PNPK.git)
 ## __Courses and Training__
 ## __English Proficiency__
 
