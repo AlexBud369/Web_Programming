@@ -36,5 +36,4 @@ static void TextOutput(string text)
 -- **Python Advanced level** - Mellarosa course
 -- **CS50: Harward course** - Mellarosa course
 ## __English Proficiency__
-
-
+I have an intermediate level of English (B1). I practiced my English in online courses and in classes with a personal tutor. Now learning English is my hobby and I study it on my own.
