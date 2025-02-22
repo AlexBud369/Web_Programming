@@ -1,9 +1,10 @@
 # **Alexandr Budayeu**
 ![My photo](images/picture2.jpg)  
 Profile photo
+
 ---
 ## __Content__
-1.[__Contact information__](#contact-information)  
+1.[Contact information](#contact-information)  
 2.[About Me](#about-me)  
 3.[Skills](#skills)   
 4.[Projects](#projects)  
@@ -32,9 +33,9 @@ static void TextOutput(string text)
 - **Personal CV Website** - This CV itself is my first project. [View on GitHub](https://github.com/AlexBud369)
 - **University project** - A practice of writing program code term-paper on C#. [View on GitHub](https://github.com/AlexBud369/PIR231_TermPaper_PNPK.git)
 ## __Courses and Training__
--- **Basics of the Python programming language** - Mellarosa course
--- **Python Advanced level** - Mellarosa course
--- **CS50: Harward course** - Mellarosa course
+- **Basics of the Python programming language** - Mellarosa course  
+- **Python Advanced level** - Mellarosa course  
+- **CS50: Harward course** - Mellarosa course  
 ## __English Proficiency__  
 I have an intermediate level of English (B1). I practiced my English in online courses and in classes with a personal tutor. Now learning English is my hobby and I study it on my own.
 
