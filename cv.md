@@ -22,6 +22,12 @@ I am currently studying software engineering at the BRU . My priorities in learn
 - **Version Control:** Git, GitHub
 - **Tools:** Avocode, VS Code, Enterprise Architect
 ## __Code Example__
+```c#
+static void TextOutput(string text)
+{
+   Console.WriteLine(text);
+}
+```
 ## __Projects__
 ## __Courses and Training__
 ## __English Proficiency__
