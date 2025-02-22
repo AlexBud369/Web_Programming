@@ -1,14 +1,14 @@
 # **Alexandr Budayeu**
-![My photo](images/picture2.jpg)
+![My photo](images/picture2.jpg)  
 Profile photo
 ---
 ## __Content__
-1.[Contact information](#contact)  
-2.[About Me](#about)  
+1.[__Contact information__](#contact-information)  
+2.[About Me](#about-me)  
 3.[Skills](#skills)   
 4.[Projects](#projects)  
-5.[Courses and Training](#courses)  
-6.[English Proficiency](#english)  
+5.[Courses and Training](#courses-and-training)  
+6.[English Proficiency](#english-proficiency)  
 ## __Contact information__
 - **Phone:** +375 (44) 345-12-55
 - **Email:** work_mail@gmail.com  
@@ -35,5 +35,10 @@ static void TextOutput(string text)
 -- **Basics of the Python programming language** - Mellarosa course
 -- **Python Advanced level** - Mellarosa course
 -- **CS50: Harward course** - Mellarosa course
-## __English Proficiency__
+## __English Proficiency__  
 I have an intermediate level of English (B1). I practiced my English in online courses and in classes with a personal tutor. Now learning English is my hobby and I study it on my own.
+
+---
+
+**© 2025 Alexandr Budayeu. All rights reserved.**  
+[Website](https://example.com) | [Email](mailto:email@example.com)
