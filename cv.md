@@ -1,5 +1,5 @@
 # **Alexandr Budayeu**
-![My photo](images/picture2.jpg)  
+![My photo](picture_correct_size.jpg)  
 Profile photo
 
 ---
